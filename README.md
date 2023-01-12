@@ -1,6 +1,6 @@
 ## Hello
 
-nice to meet you
+Nice to meet you
 
 My name is MinSik Kim
 
